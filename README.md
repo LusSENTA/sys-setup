@@ -5,7 +5,7 @@ A script for setting up Linux computers.
 ## Downloading and running
 
 ```
-git clone
+git clone https://github.com/LusSENTA/sys-setup
 ```
 
 ```
